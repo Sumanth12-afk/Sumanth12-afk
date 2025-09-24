@@ -10,7 +10,7 @@ I work on projects related to **DevOps** and **Data Engineering** — bringing t
 
 * GitHub Actions
 * Jenkins
-* Docker (basic)
+* Docker
 * CI/CD pipelines
 
 ### 💻 Web Tools
