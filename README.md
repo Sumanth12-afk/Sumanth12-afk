@@ -1,79 +1,86 @@
-# 👋 Hey, I'm Sumanth
+# 👋 Hey, I'm Sumanth Nallandhigal
 
-I work on projects related to **DevOps** and **Data Engineering** — bringing together automation, cloud infrastructure, and scalable data pipelines.
+I’m a **DevOps & Data Engineer** passionate about building automation-driven, scalable cloud infrastructures.  
+Currently focusing on **AWS Partner solutions**, **Terraform module development**, and **CI/CD pipelines** that power startups and modern data platforms.
+
+---
+
+## ⚙️ What I Do
+
+I specialize in bridging the gap between **DevOps**, **Cloud Engineering**, and **Data Infrastructure** — helping teams build resilient, secure, and cost-efficient systems.
+
+- 🧩 Automating infrastructure with Terraform, Docker, and Kubernetes  
+- 🚀 Creating reusable AWS Terraform modules for startups  
+- 🔐 Applying DevSecOps best practices (Trivy, Checkov, GuardDuty)  
+- 📊 Building scalable data pipelines with Azure, Snowflake, and Databricks  
+- 💡 Delivering monitoring, alerts, and cost optimization (FinOps)
+
+---
+
+## ☁️ AWS Partner Projects
+
+### 🛠️ [terraform-aws-startup-infrastructure](https://github.com/Sumanth12-afk/terraform-aws-startup-infrastructure)
+**Highlights:**
+- End-to-end AWS startup infrastructure with Terraform (VPC, ECS, EKS, RDS, CloudWatch)
+- Built-in CI/CD pipelines (GitHub Actions, Trivy, Checkov)
+- Security, FinOps, and compliance baked in  
+- Listed on **Terraform Registry** → [View Module](https://registry.terraform.io/modules/Sumanth12-afk/startup-infrastructure/aws/latest)
+
+### 🌐 AWS Partner DevOps Automation Showcase  
+**Architecture:**  
+Terraform + CI/CD + Security + Monitoring  
+- Automated build, scan, and deploy pipeline using GitHub Actions  
+- Trivy and Checkov integrated for continuous compliance  
+- CloudWatch + SNS alerts for proactive monitoring  
+- AWS Partner–branded infrastructure visualization
 
 ---
 
 ## 🧰 Technologies I Work With
 
 ### 🚀 DevOps & Automation
-
-* GitHub Actions
-* Jenkins
-* Docker
-* CI/CD pipelines
-
-### 💻 Web Tools
-
-* Node.js
-* React
-* REST APIs
+- Terraform • AWS CloudFormation  
+- GitHub Actions • Jenkins  
+- Docker • Kubernetes (EKS)  
+- CI/CD • DevSecOps (Trivy, Checkov, GuardDuty)
 
 ### 📊 Data Engineering & Cloud
+- Azure Data Lake • Databricks (PySpark)  
+- Snowflake • Python • SQL • Delta Lake  
+- Data Pipelines • ETL Optimization
 
-* Azure Data Lake Storage Gen2
-* Databricks (PySpark)
-* Snowflake
-* Python, SQL
+### 💻 Web & Scripting
+- Node.js • React  
+- REST APIs • Bash • PowerShell
 
 ---
 
-## 📌 Featured Projects
+## 📌 Featured Data & Web Projects
 
 ### [retail-orders-data-engineering-project](https://github.com/Sumanth12-afk/retail-orders-data-engineering-project)
-
-**Highlights**:
-
-* Simulates real-world retail order data workflows using PySpark and Delta Lake
-* Ingests, transforms, and analyzes datasets on Azure Databricks
-* Focused on batch processing, data quality, and cloud-based lakehouse architecture
+*Simulates real-world data workflows using PySpark & Delta Lake on Databricks.*
 
 ### [azure-data-pipeline-snowflake](https://github.com/Sumanth12-afk/azure-data-pipeline-snowflake)
-
-**Highlights**:
-
-* Ingested raw CSVs into Azure Data Lake
-* Transformed with PySpark in Databricks
-* Loaded into Snowflake
-* Visualized revenue by product category with Snowflake charts
+*End-to-end ELT pipeline from Azure Data Lake → Snowflake → Visualization.*
 
 ### [Calmify - Mental Wellness Reimagined](https://github.com/Sumanth12-afk/Calmify_Mental_Wellness_Reimagined)
-
-**Highlights**:
-
-* Full-stack mental wellness platform built with React and Node.js
-* Focuses on meditation, journaling, and emotional well-being
-* Responsive design with frontend/backend integration and user workflows
-
-### [node-cicd-demo](https://github.com/Sumanth12-afk/node-cicd-demo)
-
-**Highlights**:
-
-* Demo Node.js project integrated with CI/CD using GitHub Actions
-* Builds and tests on every push
-* Shows clean branching and automation setup for scalable delivery
+*A full-stack React + Node.js app for mindfulness and journaling.*
 
 ---
 
 ## 🌱 Currently Exploring
-
-* GitHub Actions for pipeline automation
-* Visualizing end-to-end workflows
-* Efficient deployment with CI/CD tools like Jenkins
-* Cost optimization in data workloads
+- AWS Marketplace automation for Terraform modules  
+- AI-driven DevOps workflows (using Cursor AI + AWS SDKs)  
+- Serverless security scanning pipelines  
+- Cost-aware CI/CD deployment patterns  
 
 ---
 
 ## 💬 Let’s Connect
+📧 **sumanthnallandhigal@gmail.com**  
+💼 [Terraform Registry Profile](https://registry.terraform.io/modules/Sumanth12-afk/startup-infrastructure/aws/latest)  
+🔗 [LinkedIn (placeholder)](https://linkedin.com/in/sumanthnallandhigal)
 
-Always open to collaborating, learning, and building cool things. Feel free to check out my work or reach out.
+---
+
+⭐ *Always open to collaborations in DevOps, automation, and cloud architecture.*  
