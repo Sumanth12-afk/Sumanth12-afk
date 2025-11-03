@@ -79,7 +79,7 @@ Terraform + CI/CD + Security + Monitoring
 ## 💬 Let’s Connect
 📧 **sumanthnallandhigal@gmail.com**  
 💼 [Terraform Registry Profile](https://registry.terraform.io/modules/Sumanth12-afk/startup-infrastructure/aws/latest)  
-🔗 [LinkedIn (placeholder)](https://linkedin.com/in/sumanthnallandhigal)
+🔗 [LinkedIn](https://www.linkedin.com/in/sumanth-nallandhigal)
 
 ---
 
