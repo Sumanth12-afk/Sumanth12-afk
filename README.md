@@ -1,9 +1,9 @@
 👋 Hey, I'm Sumanth Nallandhigal
 
-I’m a DevOps & Cloud Engineer passionate about building automation-driven, scalable cloud infrastructures.
+I’m a DevOps and Cloud Engineer passionate about building automation-driven, scalable cloud infrastructures.
 Currently focusing on AWS Partner solutions, Terraform module development, and CI/CD pipelines that power startups and enterprise platforms.
 
-⚙️ What I Do
+### ⚙️ What I Do
 
 I specialize in bridging the gap between DevOps, Cloud Engineering, and FinOps Automation — helping teams build resilient, secure, and cost-efficient systems.
 
@@ -17,71 +17,62 @@ I specialize in bridging the gap between DevOps, Cloud Engineering, and FinOps A
 
 💡 Delivering monitoring, alerts, and performance optimization
 
-☁️ AWS Partner Projects
-🧱 terraform-aws-startup-infrastructure
+🤝 Collaborating with cross-functional teams to improve release velocity and cloud reliability
+
+### ☁️ AWS Partner Projects
+
+### 🧱 terraform-aws-startup-infrastructure
 
 Highlights:
 
 Complete AWS startup infrastructure using Terraform (VPC, ECS, EKS, RDS, CloudWatch)
 
-Built-in CI/CD pipelines with GitHub Actions, Trivy, and Checkov
+Built CI/CD pipelines with GitHub Actions, Trivy, and Checkov
 
 Designed for scalability, cost optimization, and compliance
 
 Published on Terraform Registry → View Module
 
-💰 aws-cloud-cost-optimizer-system
+### 💰 aws-cloud-cost-optimizer-system
 
 Highlights:
 
-Automates detection and cleanup of idle or untagged AWS resources
+Automated detection and cleanup of idle or untagged AWS resources
 
-Uses Terraform + Python (Boto3) + Lambda for cost optimization and governance
+Used Terraform, Python (Boto3), and Lambda for cost optimization and governance
 
-Integrates Slack alerts for real-time cost savings and compliance visibility
+Integrated Slack alerts for real-time cost savings and compliance visibility
 
-Enforces tagging policies and reports actionable insights in S3
+Enforced tagging policies and stored cost reports in S3
 
-🌐 be4youdeals-nextjs-app
+Enhanced visibility, accountability, and cloud cost efficiency
+
+### 🌐 be4youdeals-nextjs-app
 
 Highlights:
 
-Full-stack affiliate e-commerce platform built with Next.js + Node.js + AWS S3
+Built a Next.js-based affiliate e-commerce platform integrated with Amazon Associates APIs for real-time deals and price tracking
 
-Integrated GitHub Actions CI/CD pipeline for automated build and deployment
+Implemented region-aware product listings and category-based filtering for personalized shopping experiences
 
-Optimized SEO and content delivery with CloudFront + S3 hosting
+Automated deployments using GitHub Actions with S3 and CloudFront for global scalability
 
-Designed to demonstrate DevOps-driven web scalability and automation
+Integrated Claude AI for dynamic product content generation and SEO optimization
 
-🧰 Technologies I Work With
-🚀 DevOps & Automation
+Showcases DevOps-driven full-stack delivery from code to deployment and monitoring
 
-Terraform • AWS CloudFormation
+### 🧰 Technologies I Work With
 
-GitHub Actions • Jenkins
+#### 🚀 DevOps and Automation
+Terraform • AWS CloudFormation • GitHub Actions • Jenkins • Docker • Kubernetes (EKS) • CI/CD • DevSecOps (Trivy, SonarQube, Checkov, GuardDuty)
 
-Docker • Kubernetes (EKS)
+#### ☁️ Cloud and Infrastructure
+AWS (EC2, RDS, Lambda, S3, EKS, VPC) • Python (Boto3) • Bash • Ansible • Cost Optimization • Cloud Governance (FinOps)
 
-CI/CD • DevSecOps (Trivy, SonarQube, Checkov, GuardDuty)
+#### 💻 Web and Scripting
+Node.js • React • REST APIs • PowerShell • AWS Amplify • Static Site Hosting
 
-☁️ Cloud & Infrastructure
-
-AWS (EC2, RDS, Lambda, S3, EKS, VPC)
-
-Python (Boto3) • Bash • Ansible
-
-Cost Optimization • Cloud Governance (FinOps)
-
-💻 Web & Scripting
-
-Node.js • React
-
-REST APIs • PowerShell
-
-Static site hosting • AWS Amplify
-
-🌱 Currently Exploring
+### 🌱 Currently Exploring
 
 AWS Marketplace automation for Terraform modules
 
@@ -89,10 +80,9 @@ AI-driven DevOps workflows with Cursor AI and AWS SDKs
 
 Serverless compliance and monitoring pipelines
 
-Cloud-native cost analytics for FinOps teams
+Cloud-native cost analytics and reporting for FinOps teams
 
-💬 Let’s Connect
-
+### 💬 Let’s Connect
 📧 sumanthnallandhigal@gmail.com
 
 💼 Terraform Registry Profile
