@@ -86,7 +86,6 @@ I specialize in bridging the gap between **DevOps**, **Cloud Engineering**, and 
 
 ### 📊 GitHub Stats
 
-![Sumanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sumanth12-afk&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sumanth12-afk&layout=compact&theme=tokyonight)
 
