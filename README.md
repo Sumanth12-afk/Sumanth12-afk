@@ -114,20 +114,6 @@ I specialize in bridging the gap between **DevOps**, **Cloud Engineering**, and 
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sumanth12-afk&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sumanth12-afk&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Sumanth12-afk&theme=radical&hide_border=true)
-
-</div>
-
----
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Sumanth12-afk&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
