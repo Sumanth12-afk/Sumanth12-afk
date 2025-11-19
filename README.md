@@ -2,7 +2,7 @@
 
 I'm a **DevOps and Cloud Engineer** passionate about building automation-driven, scalable cloud infrastructures.
 
-Currently focusing on **AWS Partner solutions**, **Terraform module development**, and **CI/CD pipelines** that power startups and enterprise platforms.
+Currently building **automated monitoring systems**, **cloud security solutions**, and **CI/CD pipelines** that power startups and enterprise platforms.
 
 ---
 
@@ -14,48 +14,80 @@ I specialize in bridging the gap between **DevOps**, **Cloud Engineering**, and 
 - 🚀 Creating reusable **AWS Terraform modules** for startups
 - 🔐 Applying **DevSecOps** best practices (Trivy, SonarQube, Checkov)
 - 📊 Implementing **cost governance** and cloud automation (FinOps)
-- 💡 Delivering **monitoring**, **alerts**, and **performance optimization**
-- 🤝 Collaborating with cross-functional teams to improve release velocity and cloud reliability
+- 💡 Delivering **monitoring, alerts**, and performance optimization
+- 🤝 Collaborating with cross-functional teams to improve **release velocity** and **reliability**
 
 ---
 
 ## ☁️ AWS Partner Projects
 
-### 🧱 [terraform-aws-startup-infrastructure](https://github.com/Sumanth12-afk/terraform-aws-startup-infrastructure)
+### 🧱 terraform-aws-startup-infrastructure
+
+🔗 **Repo**: [terraform-aws-startup-infrastructure](https://github.com/Sumanth12-afk/terraform-aws-startup-infrastructure)  
+📦 **Terraform Registry**: [View on Registry](https://registry.terraform.io/modules)
 
 **Highlights:**
 - Complete AWS startup infrastructure using Terraform (VPC, ECS, EKS, RDS, CloudWatch)
-- Built CI/CD pipelines with GitHub Actions, Trivy, and Checkov
+- Built CI/CD pipelines with GitHub Actions, Trivy, Checkov
 - Designed for scalability, cost optimization, and compliance
-- 📦 Published on [Terraform Registry](https://registry.terraform.io/) → View Module
 
-### 💰 [aws-cloud-cost-optimizer-system](https://github.com/Sumanth12-afk/aws-cloud-cost-optimizer-system)
+---
 
-**Highlights:**
-- Automated detection and cleanup of idle or untagged AWS resources
-- Used **Terraform**, **Python (Boto3)**, and **Lambda** for cost optimization and governance
-- Integrated **Slack alerts** for real-time cost savings and compliance visibility
-- Enforced tagging policies and stored cost reports in S3
-- Enhanced visibility, accountability, and cloud cost efficiency
+### 🔐 aws-keyguardian
 
-### 🌐 [be4youdeals-nextjs-app](https://github.com/Sumanth12-afk/be4youdeals-nextjs-app)
+🔗 **Repo**: [aws-keyguardian](https://github.com/Sumanth12-afk/aws-keyguardian)
 
 **Highlights:**
-- Built a **Next.js-based** affiliate e-commerce platform integrated with Amazon Associates APIs for real-time deals and price tracking
-- Implemented region-aware product listings and category-based filtering for personalized shopping experiences
-- Automated deployments using **GitHub Actions** with **S3** and **CloudFront** for global scalability
-- Integrated **Claude AI** for dynamic product content generation and SEO optimization
-- Showcases DevOps-driven full-stack delivery from code to deployment and monitoring
+- EC2 key pair lifecycle automation (validate → secure → rotate → archive)
+- Uses Lambda, EventBridge, CloudTrail, DynamoDB
+- Governance enforcement + real-time alerts (Gmail SMTP / SES / Slack)
+- Eliminates stale and unmanaged access keys
+
+---
+
+### 🔎 driftguard-terraform-aws
+
+🔗 **Repo**: [driftguard-terraform-aws](https://github.com/Sumanth12-afk/driftguard-terraform-aws)
+
+**Highlights:**
+- Terraform-based AWS drift detection + automatic remediation
+- Uses AWS Config, EventBridge, Lambda
+- Slack notifications + detailed drift reports
+- Ensures IaC consistency and audit compliance
+
+---
+
+### 💰 aws-cloud-cost-optimizer-system
+
+🔗 **Repo**: [aws-cloud-cost-optimizer-system](https://github.com/Sumanth12-afk/aws-cloud-cost-optimizer-system)
+
+**Highlights:**
+- Detects and cleans up idle, unused, or untagged AWS resources
+- Python (Boto3) + Terraform + Lambda automation
+- Slack alerts for anomalies, cost spikes, and tagging violations
+- Improves visibility and cloud cost efficiency by **30–40%**
+
+---
+
+### 🚀 EC2 CPU Monitoring with n8n
+
+🔗 **Repo**: [EC2_Monitoring_n8n](https://github.com/Sumanth12-afk/EC2_Monitoring_n8n)
+
+**Highlights:**
+- Automated EC2 CPU monitoring workflow using n8n + AWS CloudWatch
+- Real-time alerts via Gmail when CPU exceeds 80% threshold
+- Docker-based n8n deployment with OAuth2 Gmail integration
+- SQLite database recovery and workflow restoration techniques
 
 ---
 
 ## 🧰 Technologies I Work With
 
 ### 🚀 DevOps and Automation
-`Terraform` • `AWS CloudFormation` • `GitHub Actions` • `Jenkins` • `Docker` • `Kubernetes (EKS)` • `CI/CD` • `DevSecOps (Trivy, SonarQube, Checkov, GuardDuty)`
+`Terraform` • `AWS CloudFormation` • `GitHub Actions` • `Jenkins` • `Docker` • `Kubernetes (EKS)` • `CI/CD` • `DevSecOps (Trivy, SonarQube, Checkov, GuardDuty)` • `n8n`
 
 ### ☁️ Cloud and Infrastructure
-`AWS (EC2, RDS, Lambda, S3, EKS, VPC)` • `Python (Boto3)` • `Bash` • `Ansible` • `Cost Optimization` • `Cloud Governance (FinOps)`
+`AWS (EC2, RDS, Lambda, S3, EKS, VPC, CloudWatch)` • `Python (Boto3)` • `Bash` • `Ansible` • `Cost Optimization` • `Cloud Governance (FinOps)`
 
 ### 💻 Web and Scripting
 `Node.js` • `React` • `REST APIs` • `PowerShell` • `AWS Amplify` • `Static Site Hosting`
@@ -65,31 +97,43 @@ I specialize in bridging the gap between **DevOps**, **Cloud Engineering**, and 
 ## 🌱 Currently Exploring
 
 - 🔧 AWS Marketplace automation for Terraform modules
-- 🤖 AI-driven DevOps workflows with Cursor AI and AWS SDKs
-- 🔒 Serverless compliance and monitoring pipelines
-- 📊 Cloud-native cost analytics and reporting for FinOps teams
+- 🤖 AI-driven DevOps workflows with Cursor AI + AWS SDK
+- 🔒 Serverless compliance + security automation
+- 📊 Cloud-native cost analytics dashboards for FinOps
 
 ---
 
 ## 💬 Let's Connect
 
-- 📧 **Email:** [sumanthnallandhigal@gmail.com](mailto:sumanthnallandhigal@gmail.com)
-- 💼 **Terraform Registry:** [Profile](https://registry.terraform.io/)
-- 🔗 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/sumanth-nallandhigal/)
-- 💻 **GitHub:** [Sumanth12-afk](https://github.com/Sumanth12-afk)
+📧 **Email**: [sumanthnallandhigals@gmail.com](mailto:sumanthnallandhigals@gmail.com)  
+🌐 **Terraform Registry**: [Sumanth12-afk](https://registry.terraform.io/namespaces/Sumanth12-afk)  
+🔗 **LinkedIn**: [sumanth-nallandhigal](https://www.linkedin.com/in/sumanth-nallandhigal/)  
+💻 **GitHub**: [@Sumanth12-afk](https://github.com/Sumanth12-afk)
+
+⭐ Always open to collaborations in **DevOps**, **automation**, and **cloud architecture**.
 
 ---
 
-⭐ **Always open to collaborations in DevOps, automation, and cloud architecture.**
+## 📊 GitHub Stats
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sumanth12-afk&show_icons=true&theme=radical&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sumanth12-afk&layout=compact&theme=radical&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sumanth12-afk&theme=radical&hide_border=true)
+
+</div>
 
 ---
 
-### 📊 GitHub Stats
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sumanth12-afk&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</div>
 
+<div align="center">
+  
+### Building the future of cloud infrastructure, one commit at a time 🚀
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sumanth12-afk&layout=compact&theme=tokyonight)
-
----
-
-*Building the future of cloud infrastructure, one commit at a time* 🚀
-
+</div>
